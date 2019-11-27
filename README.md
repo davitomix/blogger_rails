@@ -1,24 +1,9 @@
-# README
+# Blogger App
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a simple application that allows to create users and edit their information as well as create posts and edit them.
 
-Things you may want to cover:
+[Assignment link](https://www.theodinproject.com/courses/ruby-on-rails/lessons/getting-your-feet-wet).
 
-* Ruby version
+## Authors
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+[@davitomix](https://github.com/davitomix)
